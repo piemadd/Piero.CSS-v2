@@ -3,25 +3,116 @@
 }
 
 body {
-    font-family: 
-		monospace,
-		Andale Mono,
-		Segoe UI,
-		Roboto,
-		Noto Sans,
-		sans-serif,
-		Apple Color Emoji,
-		Segoe UI Emoji,
-		Segoe UI Symbol,
-		Noto Color Emoji;
+    font-family: monospace;
 	background-color: #000000;
-	color: white;
-	text-transform: uppercase;
 	line-height: 0;
+	word-wrap: break-word;
+	font-size: 14;
 }
 
-h1, h2, h3, h4, h5, h6
+.text-black {
+	color: #000000;
+}
 
-h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover
+.text-red {
+	color: #cd0000;
+}
 
-:hover
+.text-green {
+	color: #00cd00;
+}
+
+.text-yellow {
+	color: #cdcd00;
+}
+
+.text-blue {
+	color: #0000ee;
+}
+
+.text-magenta {
+	color: #cd00cd;
+}
+
+.text-cyan {
+	color: #00cdcd;
+}
+
+.text-white {
+	color: #e5e5e5;
+}
+
+.text-black-bright {
+	color: #7f7f7f;
+}
+
+
+.text-red-bright {
+	color: #ff0000;
+}
+
+.text-green-bright {
+	color: #00ff00;
+}
+
+.text-yellow-bright {
+	color: #ffff00;
+}
+
+.text-blue-bright {
+	color: #5c5cff;
+}
+
+.text-magenta-bright {
+	color: #ff00ff;
+}
+
+.text-cyan-bright {
+	color: #00ffff;
+}
+
+.text-white-bright {
+	color: #ffffff;
+}
+
+.auto-br {
+	word-wrap: break-word;
+	line-height: normal;
+}
+
+h1, h2, h3, h4, h5, h6, a, p, b, pre {
+	color: #e5e5e5;
+	word-wrap: break-word;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
